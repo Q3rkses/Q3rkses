@@ -11,6 +11,6 @@
         ║           NTNU Trondheim             ║
         ╚══════════════════════════════════════╝
 
-  "Submit a 2k line PR — nobody bats an eye.
+  "Submit a 2500+ line PR — nobody bats an eye.
    Submit 5 lines changed — suddenly everyone's a philosopher."
 </pre>
