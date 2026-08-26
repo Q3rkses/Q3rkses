@@ -12,5 +12,8 @@
      ╚══════════════════════════════════════╝
   "Submit a 2500+ line PR — nobody bats an eye.
    Submit 5 lines changed — suddenly everyone's a philosopher."
+  
+ "Normal programmers utilize divide & conquer.
+  Expert programmers multiply & surrender."
 </pre>
 </div>
